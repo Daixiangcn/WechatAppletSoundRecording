@@ -1,0 +1,2 @@
+# WechatAppletSoundRecording
+本项目基于微信小程序实现录音及播放本地录音文件。
